@@ -1,18 +1,13 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.furknyavuz.othintellijplatformplugintemplate</id>
-    <name>oth-intellij-platform-plugin-template</name>
-    <vendor>furknyavuz</vendor>
+    <id>com.github.open-template-hub.theme</id>
+    <name>OTH Theme</name>
+    <vendor email="info@opentemplatehub.com" url="https://opentmeplatehub.com">Open Template Hub</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <applicationService serviceImplementation="com.github.furknyavuz.othintellijplatformplugintemplate.services.MyApplicationService"/>
-        <projectService serviceImplementation="com.github.furknyavuz.othintellijplatformplugintemplate.services.MyProjectService"/>
+        <themeProvider id="com.github.open-template-hub.theme.light" path="/oth-light.theme.json"/>
+        <themeProvider id="com.github.open-template-hub.theme.dark" path="/oth-dark.theme.json"/>
     </extensions>
-
-    <applicationListeners>
-        <listener class="com.github.furknyavuz.othintellijplatformplugintemplate.listeners.MyProjectManagerListener"
-                  topic="com.intellij.openapi.project.ProjectManagerListener"/>
-    </applicationListeners>
 </idea-plugin>
