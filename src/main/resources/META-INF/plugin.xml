@@ -2,7 +2,7 @@
 <idea-plugin>
     <id>com.github.open-template-hub.theme</id>
     <name>OTH Theme</name>
-    <vendor email="info@opentemplatehub.com" url="https://opentmeplatehub.com">Open Template Hub</vendor>
+    <vendor email="info@opentemplatehub.com" url="https://opentemplatehub.com">Open Template Hub</vendor>
 
     <description>
         OTH themes for JetBrains. Dark and light themes using Open Template Hub's color palette.
