@@ -8,3 +8,4 @@
 - Initialized dark and light themes
 - Vendor name updated
 - Code clean-up and selection background update
+- Update supported version
