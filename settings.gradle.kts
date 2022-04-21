@@ -1,1 +1,1 @@
-rootProject.name = "oth-intellij-platform-plugin-template"
+rootProject.name = "oth-intellij-theme-plugin"

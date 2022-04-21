@@ -1,8 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# oth-intellij-platform-plugin-template Changelog
-
-## [Unreleased]
+# oth-intellij-theme-plugin Changelog
 
 ## [0.0.4]
 ### Added
@@ -11,4 +9,8 @@
 - Vendor name updated
 - Code clean-up and selection background update
 - Update supported version
+
+## [1.0.0]
+### Added
+- Project repository renaming
 

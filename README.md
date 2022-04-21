@@ -5,17 +5,17 @@
 </p>
 
 <h1 align="center">
-Open Template Hub - IntelliJ Platform Theme v1
+Open Template Hub - IntelliJ Theme Plugin v1
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/18932-oth-theme.svg?style=for-the-badge)](https://plugins.jetbrains.com/plugin/18932-oth-theme)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/18932-oth-theme.svg?style=for-the-badge)](https://plugins.jetbrains.com/plugin/18932-oth-theme)
-[![License](https://img.shields.io/github/license/open-template-hub/oth-intellij-platform-plugin-template?color=43b043&style=for-the-badge)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/open-template-hub/oth-intellij-platform-plugin-template?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/oth-intellij-platform-plugin-template/issues)
-[![PRCLosed](https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/oth-intellij-platform-plugin-template?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/oth-intellij-platform-plugin-template/pulls?q=is%3Apr+is%3Aclosed)
-[![LastCommit](https://img.shields.io/github/last-commit/open-template-hub/oth-intellij-platform-plugin-template?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/oth-intellij-platform-plugin-template/commits/main)
-[![Release](https://img.shields.io/github/release/open-template-hub/oth-intellij-platform-plugin-template?include_prereleases&color=43b043&style=for-the-badge)](https://github.com/open-template-hub/oth-intellij-platform-plugin-template/releases)
-[![SonarCloud](https://img.shields.io/sonar/quality_gate/open-template-hub_oth-intellij-platform-plugin-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud)](https://sonarcloud.io/dashboard?id=open-template-hub_oth-intellij-platform-plugin-template)
+[![License](https://img.shields.io/github/license/open-template-hub/oth-intellij-theme-plugin?color=43b043&style=for-the-badge)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/open-template-hub/oth-intellij-theme-plugin?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/oth-intellij-theme-plugin/issues)
+[![PRCLosed](https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/oth-intellij-theme-plugin?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/oth-intellij-theme-plugin/pulls?q=is%3Apr+is%3Aclosed)
+[![LastCommit](https://img.shields.io/github/last-commit/open-template-hub/oth-intellij-theme-plugin?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/oth-intellij-theme-plugin/commits/main)
+[![Release](https://img.shields.io/github/release/open-template-hub/oth-intellij-theme-plugin?include_prereleases&color=43b043&style=for-the-badge)](https://github.com/open-template-hub/oth-intellij-theme-plugin/releases)
+[![SonarCloud](https://img.shields.io/sonar/quality_gate/open-template-hub_oth-intellij-theme-plugin?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud)](https://sonarcloud.io/dashboard?id=open-template-hub_oth-intellij-theme-plugin)
 
 
 <!-- Plugin description -->
@@ -37,9 +37,9 @@ No sponsors yet! **Will you be the first?**
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/furknyavuz"><img src="https://avatars0.githubusercontent.com/u/2248168?s=460&u=435ef6ade0785a7a135ce56cae751fb3ade1d126&v=4" width="100px;" alt=""/><br /><sub><b>Furkan Yavuz</b></sub></a><br /><a href="https://github.com/open-template-hub/oth-intellij-platform-plugin-template/issues/created_by/furknyavuz" title="Answering Questions">💬</a> <a href="https://github.com/open-template-hub/oth-intellij-platform-plugin-template/commits?author=furknyavuz" title="Documentation">📖</a> <a href="https://github.com/open-template-hub/oth-intellij-platform-plugin-template/pulls?q=is%3Apr+reviewed-by%3Afurknyavuz" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/fatihturker"><img src="https://avatars1.githubusercontent.com/u/2202179?s=460&u=261b1129e7106c067783cb022ab9999aad833bdc&v=4" width="100px;" alt=""/><br /><sub><b>Fatih Turker</b></sub></a><br /><a href="https://github.com/open-template-hub/oth-intellij-platform-plugin-template/issues/created_by/fatihturker" title="Answering Questions">💬</a> <a href="https://github.com/open-template-hub/oth-intellij-platform-plugin-template/commits?author=fatihturker" title="Documentation">📖</a> <a href="https://github.com/open-template-hub/oth-intellij-platform-plugin-template/pulls?q=is%3Apr+reviewed-by%3Afatihturker" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/mertlsarac"><img src="https://avatars1.githubusercontent.com/u/38442589?s=400&u=aa3cda11724fc297a0bfa6beb35c9be81687cf3c&v=4" width="100px;" alt=""/><br /><sub><b>Mert Sarac</b></sub></a><br /><a href="https://github.com/open-template-hub/oth-intellij-platform-plugin-template/issues/created_by/mertlsarac" title="Answering Questions">💬</a> <a href="https://github.com/open-template-hub/oth-intellij-platform-plugin-template/commits?author=mertlsarac" title="Documentation">📖</a> <a href="https://github.com/open-template-hub/oth-intellij-platform-plugin-template/pulls?q=is%3Apr+reviewed-by%3Amertlsarac" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/furknyavuz"><img src="https://avatars0.githubusercontent.com/u/2248168?s=460&u=435ef6ade0785a7a135ce56cae751fb3ade1d126&v=4" width="100px;" alt=""/><br /><sub><b>Furkan Yavuz</b></sub></a><br /><a href="https://github.com/open-template-hub/oth-intellij-theme-plugin/issues/created_by/furknyavuz" title="Answering Questions">💬</a> <a href="https://github.com/open-template-hub/oth-intellij-theme-plugin/commits?author=furknyavuz" title="Documentation">📖</a> <a href="https://github.com/open-template-hub/oth-intellij-theme-plugin/pulls?q=is%3Apr+reviewed-by%3Afurknyavuz" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/fatihturker"><img src="https://avatars1.githubusercontent.com/u/2202179?s=460&u=261b1129e7106c067783cb022ab9999aad833bdc&v=4" width="100px;" alt=""/><br /><sub><b>Fatih Turker</b></sub></a><br /><a href="https://github.com/open-template-hub/oth-intellij-theme-plugin/issues/created_by/fatihturker" title="Answering Questions">💬</a> <a href="https://github.com/open-template-hub/oth-intellij-theme-plugin/commits?author=fatihturker" title="Documentation">📖</a> <a href="https://github.com/open-template-hub/oth-intellij-theme-plugin/pulls?q=is%3Apr+reviewed-by%3Afatihturker" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/mertlsarac"><img src="https://avatars1.githubusercontent.com/u/38442589?s=400&u=aa3cda11724fc297a0bfa6beb35c9be81687cf3c&v=4" width="100px;" alt=""/><br /><sub><b>Mert Sarac</b></sub></a><br /><a href="https://github.com/open-template-hub/oth-intellij-theme-plugin/issues/created_by/mertlsarac" title="Answering Questions">💬</a> <a href="https://github.com/open-template-hub/oth-intellij-theme-plugin/commits?author=mertlsarac" title="Documentation">📖</a> <a href="https://github.com/open-template-hub/oth-intellij-theme-plugin/pulls?q=is%3Apr+reviewed-by%3Amertlsarac" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
