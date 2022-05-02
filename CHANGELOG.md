@@ -4,6 +4,9 @@
 
 ## [Unreleased]
 
+## [1.0.0]
+Repository name changes
+
 ## [0.0.4]
 ### Added
 - Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
@@ -15,4 +18,3 @@
 ## [1.0.0]
 ### Added
 - Project repository renaming
-
