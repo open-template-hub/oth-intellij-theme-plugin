@@ -4,8 +4,15 @@
 
 ## [Unreleased]
 
+## [1.0.1]
+Update supported version
+
 ## [1.0.0]
 Repository name changes
+
+## [1.0.0]
+### Added
+- Project repository renaming
 
 ## [0.0.4]
 ### Added
@@ -14,7 +21,3 @@ Repository name changes
 - Vendor name updated
 - Code clean-up and selection background update
 - Update supported version
-
-## [1.0.0]
-### Added
-- Project repository renaming
