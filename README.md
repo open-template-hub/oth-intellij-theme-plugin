@@ -10,7 +10,7 @@ Open Template Hub - IntelliJ Theme Plugin v1
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/18932-oth-theme.svg?label=Version&style=for-the-badge)](https://plugins.jetbrains.com/plugin/18932-oth-theme)
 [![JetBrains](https://img.shields.io/jetbrains/plugin/r/rating/18932-oth-theme?label=Rating&style=for-the-badge)](https://plugins.jetbrains.com/plugin/18932-oth-theme?preview=true)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/18932-oth-theme.svg?style=for-the-badge)](https://plugins.jetbrains.com/plugin/18932-oth-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/18932-oth-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/18932-oth-theme)
 [![License](https://img.shields.io/github/license/open-template-hub/oth-intellij-theme-plugin?color=43b043&style=for-the-badge)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/open-template-hub/oth-intellij-theme-plugin?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/oth-intellij-theme-plugin/issues)
 [![PRCLosed](https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/oth-intellij-theme-plugin?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/oth-intellij-theme-plugin/pulls?q=is%3Apr+is%3Aclosed)
