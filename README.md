@@ -8,7 +8,8 @@
 Open Template Hub - IntelliJ Theme Plugin v1
 </h1>
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/18932-oth-theme.svg?style=for-the-badge)](https://plugins.jetbrains.com/plugin/18932-oth-theme)
+[![Version](https://img.shields.io/jetbrains/plugin/v/18932-oth-theme.svg?label=Version&style=for-the-badge)](https://plugins.jetbrains.com/plugin/18932-oth-theme)
+[![JetBrains](https://img.shields.io/jetbrains/plugin/r/rating/18932-oth-theme?label=Rating&style=for-the-badge)](https://plugins.jetbrains.com/plugin/18932-oth-theme?preview=true)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/18932-oth-theme.svg?style=for-the-badge)](https://plugins.jetbrains.com/plugin/18932-oth-theme)
 [![License](https://img.shields.io/github/license/open-template-hub/oth-intellij-theme-plugin?color=43b043&style=for-the-badge)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/open-template-hub/oth-intellij-theme-plugin?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/oth-intellij-theme-plugin/issues)
@@ -16,7 +17,6 @@ Open Template Hub - IntelliJ Theme Plugin v1
 [![LastCommit](https://img.shields.io/github/last-commit/open-template-hub/oth-intellij-theme-plugin?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/oth-intellij-theme-plugin/commits/main)
 [![Release](https://img.shields.io/github/release/open-template-hub/oth-intellij-theme-plugin?include_prereleases&color=43b043&style=for-the-badge)](https://github.com/open-template-hub/oth-intellij-theme-plugin/releases)
 [![SonarCloud](https://img.shields.io/sonar/quality_gate/open-template-hub_oth-intellij-theme-plugin?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud)](https://sonarcloud.io/dashboard?id=open-template-hub_oth-intellij-theme-plugin)
-[![JetBrains](https://img.shields.io/jetbrains/plugin/r/rating/18932-oth-theme?label=Jetbrains&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/18932-oth-theme?preview=true)
 
 <!-- Plugin description -->
 OTH themes for JetBrains. Dark and light themes using Open Template Hub's color palette.
