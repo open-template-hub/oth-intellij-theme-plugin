@@ -2,22 +2,22 @@
 
 # oth-intellij-theme-plugin Changelog
 
-## [Unreleased]
+## Unreleased
 
-## [1.0.3]
+## 1.0.3
 Update supported version to `223.*`
 
-## [1.0.1]
+## 1.0.1
 Update supported version
 
-## [1.0.0]
+## 1.0.0
 Repository name changes
 
-## [1.0.0]
 ### Added
 - Project repository renaming
 
-## [0.0.4]
+## 0.0.4
+
 ### Added
 - Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
 - Initialized dark and light themes
