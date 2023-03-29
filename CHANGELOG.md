@@ -4,6 +4,9 @@
 
 ## Unreleased
 
+## 1.0.4
+Update supported version to `231.*`
+
 ## 1.0.3
 Update supported version to `223.*`
 
