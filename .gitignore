@@ -1,5 +1,3 @@
-.gradle
-.idea
-.qodana
-build
+out
+*.jar
 icon.png

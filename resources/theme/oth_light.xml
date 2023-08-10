@@ -1,4 +1,4 @@
-<scheme name="OTH IDE Light Color Scheme" version="142" parent_scheme="Default">
+<scheme name="OTH Light Scheme" version="142" parent_scheme="Default">
     <colors>
         <option name="CARET_COLOR" value="2b2b2b"/>
         <option name="CARET_ROW_COLOR" value="f0f8f0"/>
@@ -25,17 +25,15 @@
         <option name="SELECTED_TEARLINE_COLOR" value="409540"/>
         <option name="SELECTION_BACKGROUND" value="bbe2bb"/>
         <option name="SELECTION_FOREGROUND" value=""/>
-        <option name="SEPARATOR_BELOW_COLOR" value=""/>
         <option name="SOFT_WRAP_SIGN_COLOR" value=""/>
         <option name="ScrollBar.Mac.hoverThumbColor" value="b4b4b480"/>
         <option name="ScrollBar.Mac.thumbColor" value="b4b4b44d"/>
-        <option name="TAB_UNDERLINE" value=""/>
         <option name="TEARLINE_COLOR" value="b4b4b4"/>
         <option name="VISUAL_INDENT_GUIDE" value="efefef"/>
         <option name="WHITESPACES" value="e0e0e0"/>
     </colors>
     <attributes>
-        <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes=""/>
+        <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA"/>
         <option name="BAD_CHARACTER">
             <value>
                 <option name="BACKGROUND" value="f5dddd"/>
@@ -489,7 +487,7 @@
                 <option name="FOREGROUND" value="545454"/>
             </value>
         </option>
-        <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes=""/>
+        <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD"/>
         <option name="JS.GLOBAL_FUNCTION">
             <value>
                 <option name="FOREGROUND" value="127596"/>
@@ -580,8 +578,8 @@
                 <option name="ERROR_STRIPE_COLOR" value="bba8e2"/>
             </value>
         </option>
-        <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes=""/>
-        <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes=""/>
+        <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD"/>
+        <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES"/>
         <option name="STATIC_METHOD_ATTRIBUTES">
             <value>
                 <option name="FONT_TYPE" value="2"/>

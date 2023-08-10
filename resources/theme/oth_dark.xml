@@ -1,4 +1,4 @@
-<scheme name="OTH IDE Dark Color Scheme" version="142" parent_scheme="Darcula">
+<scheme name="OTH Dark Scheme" version="142" parent_scheme="Darcula">
     <colors>
         <option name="CARET_COLOR" value="f0f0f0"/>
         <option name="CARET_ROW_COLOR" value="363d36"/>
@@ -22,7 +22,7 @@
         <option name="RIGHT_MARGIN_COLOR" value="2b2b2b"/>
         <option name="SELECTED_INDENT_GUIDE" value="2b2b2b"/>
         <option name="SELECTED_TEARLINE_COLOR" value="6bc06b"/>
-        <option name="SELECTION_BACKGROUND" value="3a603a"/>
+        <option name="SELECTION_BACKGROUND" value="2b2b2b"/>
         <option name="SEPARATOR_BELOW_COLOR" value=""/>
         <option name="ScrollBar.Mac.hoverThumbColor" value="79797980"/>
         <option name="ScrollBar.Mac.thumbColor" value="7979794d"/>

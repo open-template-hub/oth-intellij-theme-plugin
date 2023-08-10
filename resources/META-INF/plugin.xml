@@ -1,0 +1,41 @@
+<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<idea-plugin>
+    <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
+    <id>com.github.open-template-hub.theme</id>
+    <version>1.0.6</version>
+
+    <!-- Public plugin name should be written in Title Case.
+         Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
+    <name>OTH Theme</name>
+    <category>UI</category>
+
+    <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
+    <vendor email="info@opentemplatehub.com" url="https://opentemplatehub.com">OpenTemplateHub</vendor>
+
+    <idea-version since-build="222" until-build="232.*"/>
+
+    <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
+         Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
+         Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
+    <description>
+        OTH themes for JetBrains. Dark and light themes using Open Template Hub's color palette.
+
+        After installing the theme, go to Preferences | Appearance and Behavior | Appearance and select one of the new themes in the theme dropdown.
+        Once you have selected one of the theme options, click the OK button to apply the changes.
+    </description>
+
+    <!-- Short summary of new features and bugfixes in the latest plugin version.
+         Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
+    <change-notes>
+        Update supported version to `232.*`
+    </change-notes>
+
+    <!-- Product and plugin compatibility requirements.
+         Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="1d97989c-45e1-4fe2-9b04-5d76d9bd2947" path="/theme/oth_dark.theme.json"/>
+        <themeProvider id="a6dc0240-3555-4ed8-8cf6-04f6d1165afa" path="/theme/oth_light.theme.json"/>
+    </extensions>
+</idea-plugin>
